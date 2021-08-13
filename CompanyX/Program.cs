@@ -8,6 +8,7 @@ namespace CompanyX
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Mais uma alteração.");
             Console.WriteLine("Olá!");
             Console.Write("Number of employee(s) who will be registered: ");
             int n = int.Parse(Console.ReadLine());
